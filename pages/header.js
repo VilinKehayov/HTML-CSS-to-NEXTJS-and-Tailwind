@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Header = () => {
   return (
     <header className="sm-12">
@@ -36,7 +34,9 @@ const Header = () => {
                             <a href="/pharmacies/xigiya">Хигия</a>
                           </li>
                           <li>
-                            <a href="/pharmacies/farma-1-kazanlk">Фарма 1 Казанлък</a>
+                            <a href="/pharmacies/farma-1-kazanlk">
+                              Фарма 1 Казанлък
+                            </a>
                           </li>
                           <li>
                             <a href="/pharmacies/arnika">Арника</a>
@@ -45,10 +45,14 @@ const Header = () => {
                             <a href="/pharmacies/farmavist">Фармавист</a>
                           </li>
                           <li>
-                            <a href="/pharmacies/farma-1-pavel-banya">Фарма 1 Павел Баня</a>
+                            <a href="/pharmacies/farma-1-pavel-banya">
+                              Фарма 1 Павел Баня
+                            </a>
                           </li>
                           <li>
-                            <a href="/pharmacies/farma-1-centr">Фарма 1 Център</a>
+                            <a href="/pharmacies/farma-1-centr">
+                              Фарма 1 Център
+                            </a>
                           </li>
                         </ul>
                       </div>
@@ -66,7 +70,11 @@ const Header = () => {
             </nav>
           </div>
           <div className="hamburger-wrap hide-for-large">
-            <button className="hamburger hamburger--slider no-active" type="button" id="menuButton">
+            <button
+              className="hamburger hamburger--slider no-active"
+              type="button"
+              id="menuButton"
+            >
               <span className="hamburger-box">
                 <span className="hamburger-inner"></span>
               </span>

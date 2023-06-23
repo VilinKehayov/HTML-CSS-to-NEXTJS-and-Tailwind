@@ -2,7 +2,8 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Head from "next/head";
 
-function IstoriiPageWithHead() {
+
+function History() {
   return (
     <>
       <Head>
@@ -267,4 +268,4 @@ function IstoriiPageWithHead() {
   );
 }
 
-export default IstoriiPageWithHead;
+export default History;

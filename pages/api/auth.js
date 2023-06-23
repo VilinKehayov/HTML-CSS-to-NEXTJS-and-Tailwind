@@ -1,9 +1,10 @@
 import NextAuth from 'next-auth';
-import Providers from 'next-auth/providers';
+// import Providers from 'next-auth/providers';
+import CredentialsProvider from "next-auth/providers/credentials";
 
 const options = {
   providers: [
-    Providers.Credentials({
+    CredentialsProvider({
       name: 'Admin Panel',
       credentials: {
         username: { label: 'Username', type: 'text' },
