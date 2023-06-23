@@ -8,7 +8,7 @@ export default MyApp;
 
 // import { useEffect } from 'react';
 // import { useRouter } from 'next/router';
-// import { useSession } from 'next-auth/client';
+// import { SessionProvider, useSession } from 'next-auth/react';
 
 // import '../styles/tailwind.css';
 
@@ -29,9 +29,11 @@ export default MyApp;
 //   // Function to check if a route is protected
 //   const isProtectedRoute = (route) => protectedRoutes.includes(route);
 
-//   return <Component {...pageProps} />;
+//   return (
+//     <SessionProvider session={session}>
+//       <Component {...pageProps} />
+//     </SessionProvider>
+//   );
 // }
 
 // export default MyApp;
-
-
