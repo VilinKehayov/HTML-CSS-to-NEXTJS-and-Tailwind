@@ -1,8 +1,9 @@
 import Head from "next/head";
 import Header from "./Header";
 import Footer from "./Footer";
+// import withAuth from "../lib/withAuth"
 
-export default function PromoPage() {
+const PromoPage = () => {
   return (
     <div>
       <Head>
@@ -283,3 +284,5 @@ export default function PromoPage() {
     </div>
   );
 }
+
+export default PromoPage;
