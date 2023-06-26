@@ -1,19 +1,6 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/Component": "pages/Component.html",
-  "/admin/login": "pages/admin/login.html",
-  "/api/auth": "pages/api/auth.js",
-  "/footer": "pages/footer.html",
-  "/head": "pages/head.html",
-  "/header": "pages/header.html",
-  "/history": "pages/history.html",
-  "/": "pages/index.html",
-  "/interesno": "pages/interesno.html",
-  "/main": "pages/main.html",
-  "/pharmacies": "pages/pharmacies.html",
-  "/promo": "pages/promo.html",
-  "/za-nas": "pages/za-nas.html",
   "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/": "pages/index.js"
 }
