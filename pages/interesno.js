@@ -181,11 +181,11 @@ function InteresnoPage() {
                               "url('/storage/articles/about-us.jpg')",
                           }}
                         >
-                          <a href="https://www.apteki-kazanlak.com/interesno/antibiotici"></a>
+                          <a href=""></a>
                         </div>
                         <div className="summary">
                           <p className="font-24 title">
-                            <a href="/interesno/antibiotici">Антибиотици</a>
+                            <a href="https://www.apteki-kazanlak.com/interesno/antibiotici">Антибиотици</a>
                           </p>
                           <p>
                             Всеки човек поне веднъж в живота си е приемал
@@ -229,7 +229,7 @@ function InteresnoPage() {
                         </div>
                         <div className="summary">
                           <p className="font-24 title">
-                            <a href="/interesno/vaksinite">Ваксините</a>
+                            <a href="https://www.apteki-kazanlak.com/interesno/vaksinite">Ваксините</a>
                           </p>
                           <p>
                             През 1796 г. английският лекар и учен Едуард Дженър
