@@ -66,7 +66,7 @@ const Component = () => {
       </div>
       <div className="gdpr-cookie-wrapper col">
         Този сайт използва 'Бисквитки' (Cookies).
-        <a href="javascript:;" className='gdpr-cookie-accept' id='cc_btn_accept_all'>Разбрах</a>
+        <a href="" className='gdpr-cookie-accept' id='cc_btn_accept_all'>Разбрах</a>
       </div>
     </>
   );
