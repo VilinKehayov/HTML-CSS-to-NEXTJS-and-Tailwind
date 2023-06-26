@@ -1,7 +1,7 @@
 import Header from "./Header";
 import Footer from "./Footer";
 import Head from "next/head";
-import withAuth from "../lib/withAuth";
+
 
 
 const PharmaciesPage = () => {
@@ -370,4 +370,4 @@ const PharmaciesPage = () => {
   );
 };
 
-export default withAuth(PharmaciesPage);
+export default PharmaciesPage;

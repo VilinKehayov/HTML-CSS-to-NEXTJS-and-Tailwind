@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Header from "./Header";
 import Footer from "./Footer";
-import withAuth from "../lib/withAuth";
+
 
 const PromoPage = () => {
   return (
@@ -285,4 +285,4 @@ const PromoPage = () => {
   );
 };
 
-export default withAuth(PromoPage);
+export default PromoPage;
