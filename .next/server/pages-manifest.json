@@ -2,7 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/history": "pages/history.js",
-  "/pharmacies": "pages/pharmacies.js",
-  "/promo": "pages/promo.js"
+  "/interesno": "pages/interesno.js"
 }

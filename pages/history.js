@@ -135,6 +135,7 @@ function History() {
 
       <Header />
 
+
       <main className="sm-12">
         <div className="row">
           <div className="col sm-12"></div>
@@ -206,15 +207,14 @@ function History() {
             >
               <div className="sm-12 md-6 col">
                 <div className="sm-8 col">
-                  <p className="font-32">Фармавист</p>
+                  <p className="font-32">Аптека 2000</p>
                   <p>
-                    Открива се Социална Аптека Фармавист в един от големите
-                    жилищни комплекси в Казанлък - ЖК „Роза“.
+                    Отваря се Аптека 2000 в град Казанлък на ул. „Калояново“.{" "}
                   </p>
                 </div>
                 <div className="sm-4 col">
                   <div className="benzene">
-                    <span className="font-32">2013</span>
+                    <span className="font-32">2000</span>
                   </div>
                 </div>
               </div>
@@ -226,15 +226,15 @@ function History() {
             >
               <div className="sm-12 md-6 col">
                 <div className="sm-8 col">
-                  <p className="font-32">Фарма 1 Павел Баня</p>
+                  <p className="font-32">Родопска</p>
                   <p>
-                    Открива се Социална аптека Фарма 1 Павел Баня на ул. „Стефан
-                    Караджа“.
+                    Открива се аптека Родопска на ул. „Главна“ в град
+                    Казанлък.
                   </p>
                 </div>
                 <div className="sm-4 col">
                   <div className="benzene">
-                    <span className="font-32">2015</span>
+                    <span className="font-32">2003</span>
                   </div>
                 </div>
               </div>
@@ -246,15 +246,110 @@ function History() {
             >
               <div className="sm-12 md-6 col">
                 <div className="sm-8 col">
-                  <p className="font-32">Фарма 1 Център</p>
+                  <p className="font-32">Алтея</p>
                   <p>
-                    Открива се Социална аптека Фарма 1 Център в центъра на
-                    града.
+                    Аптека Алтея отваря врати на ул. „Цар Освободител“ в
+                    Казанлък.
                   </p>
                 </div>
                 <div className="sm-4 col">
                   <div className="benzene">
-                    <span className="font-32">2016</span>
+                    <span className="font-32">2005</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="sm-12 tm-box"
+              data-aos="fade-down-right"
+              data-aos-duration="2000"
+            >
+              <div className="sm-12 md-6 col">
+                <div className="sm-8 col">
+                  <p className="font-32">Фарма 1 Стара Загора</p>
+                  <p>Открива се Фарма 1 Стара Загора на бул. „Руски“.</p>
+                </div>
+                <div className="sm-4 col">
+                  <div className="benzene">
+                    <span className="font-32">2007</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="sm-12 tm-box"
+              data-aos="fade-down-left"
+              data-aos-duration="2000"
+            >
+              <div className="sm-12 md-6 col">
+                <div className="sm-8 col">
+                  <p className="font-32">Левент</p>
+                  <p>
+                    Отваря се аптека Левент на ул. „Бачо Киро“ в Казанлък.
+                  </p>
+                </div>
+                <div className="sm-4 col">
+                  <div className="benzene">
+                    <span className="font-32">2009</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="sm-12 tm-box"
+              data-aos="fade-down-right"
+              data-aos-duration="2000"
+            >
+              <div className="sm-12 md-6 col">
+                <div className="sm-8 col">
+                  <p className="font-32">Малина</p>
+                  <p>
+                    Аптека Малина отваря врати на ул. „Севастократор Калоян“ в
+                    Казанлък.
+                  </p>
+                </div>
+                <div className="sm-4 col">
+                  <div className="benzene">
+                    <span className="font-32">2012</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="sm-12 tm-box"
+              data-aos="fade-down-left"
+              data-aos-duration="2000"
+            >
+              <div className="sm-12 md-6 col">
+                <div className="sm-8 col">
+                  <p className="font-32">Галена</p>
+                  <p>
+                    Отваря се аптека Галена на ул. „Стара планина“ в Казанлък.
+                  </p>
+                </div>
+                <div className="sm-4 col">
+                  <div className="benzene">
+                    <span className="font-32">2015</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              className="sm-12 tm-box"
+              data-aos="fade-down-right"
+              data-aos-duration="2000"
+            >
+              <div className="sm-12 md-6 col">
+                <div className="sm-8 col">
+                  <p className="font-32">Експрес</p>
+                  <p>
+                    Аптека Експрес отваря врати на ул. „Стара планина“ в
+                    Казанлък.
+                  </p>
+                </div>
+                <div className="sm-4 col">
+                  <div className="benzene">
+                    <span className="font-32">2018</span>
                   </div>
                 </div>
               </div>

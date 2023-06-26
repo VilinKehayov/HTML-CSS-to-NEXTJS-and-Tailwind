@@ -161,7 +161,7 @@ function InteresnoPage() {
                         </div>
                         <div className="summary">
                           <p className="font-24 title">
-                            <a href="/interesno/dermoanaliz-na-lice">
+                            <a href="https://www.apteki-kazanlak.com/interesno/dermoanaliz-na-lice">
                               Дермоанализ на лице
                             </a>
                           </p>
@@ -181,7 +181,7 @@ function InteresnoPage() {
                               "url('/storage/articles/about-us.jpg')",
                           }}
                         >
-                          <a href="/interesno/antibiotici"></a>
+                          <a href="https://www.apteki-kazanlak.com/interesno/antibiotici"></a>
                         </div>
                         <div className="summary">
                           <p className="font-24 title">
@@ -207,7 +207,7 @@ function InteresnoPage() {
                         </div>
                         <div className="summary">
                           <p className="font-24 title">
-                            <a href="/interesno/vitamini">Витамини</a>
+                            <a href="https://www.apteki-kazanlak.com/interesno/vitamini">Витамини</a>
                           </p>
                           <p>
                             Всеки ден с храната нашият организъм приема известно
@@ -225,7 +225,7 @@ function InteresnoPage() {
                               "url('/storage/articles/vaccine.jpg')",
                           }}
                         >
-                          <a href="/interesno/vaksinite"></a>
+                          <a href="https://www.apteki-kazanlak.com/interesno/vaksinite"></a>
                         </div>
                         <div className="summary">
                           <p className="font-24 title">
